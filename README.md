@@ -7,8 +7,18 @@ NamSor Applied Onomastics API and SDKs (Extract Gender, Extract Origin, more...)
 Applied onomastics is the science of proper names. Names are meaningful: they can be classified, sorted, filtered, corrected... This project is a placeholder to distribute open source SDKs for NamSor API. 
 
 ## NamSor API SDKs
+NamSor Origin SDK for Java, Scala, PHP, Python, C# [more]
+* http://restunited.com/releases/362298905252070923/wrappers
 Extract Gender SDK for Java, Scala, PHP, Python, C# [more]
 * http://restunited.com/releases/353822053726422518/wrappers
+
+## NamSor Origin API
+NamSor Origin API will guess the likely country of origin of a personal name, based on the sociolinguistics of the name (language, culture). This is a coarse grain API, typically for marketing or social analytics.
+
+The method for anthroponomical classification can be summarized as follow: judging from the name only and the publicly available list of all ~150k Olympic athletes since 1896 (and other similar lists of names), for which national team would the person most likely run? Here, the United-States are typically considered as a melting pot of other ‘cultural origins’: Ireland, Germany, etc. and not as a onomastic class on its own.
+
+This API is available exclusively on Mashape.
+* https://www.mashape.com/namsor/origin
 
 ## GendRE API (Extract Gender)
 
