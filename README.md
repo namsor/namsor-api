@@ -1,15 +1,10 @@
 NamSor API
 ==========
 
-NamSor Applied Onomastics API and SDKs (Extract Gender, Extract Origin, more...)
-
-# Introduction
-Applied onomastics is the science of proper names. Names are meaningful: they can be classified, sorted, filtered, corrected... This project is a placeholder to distribute open source SDKs for NamSor API. 
+NamSor Applied Onomastics API and SDKs (Extract Gender, Extract Origin, more...). Applied onomastics is the science of proper names. Names are meaningful: they can be classified, sorted, filtered, corrected... This project is a placeholder to distribute open source SDKs for NamSor API. 
 
 ## NamSor API SDKs
-NamSor Origin SDK for Java, Scala, PHP, Python, C# [more]
 * http://restunited.com/releases/362298905252070923/wrappers
-Extract Gender SDK for Java, Scala, PHP, Python, C# [more]
 * http://restunited.com/releases/353822053726422518/wrappers
 
 ## NamSor Origin API
