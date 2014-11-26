@@ -1,0 +1,60 @@
+{
+  "name": "NamSor-API",
+  "description": "NamSor sorts names. Names are meaningful : we use sociolinguistics to extract their semantics and deliver actionable intelligence. We use applied onomastics recognizes the linguistic or cultural origin of personal names in any alphabet / language, with fine grain and high accuracy - and infer gender.",
+  "url": "https://raw.githubusercontent.com/namsor/namsor-api/master/doc/apis.json",
+  "image": "https://raw.githubusercontent.com/namsor/namsor-api/master/2014_NamSor_Logo_500_250_Gender.png",
+  "specificationVersion": "0.14",
+  "apis": [
+    {
+      "name": "NamSor Gender API",
+      "description": "GendRE is an Application Programming Interface (API) to determine the gender of a personal name on a -1 (Male) to +1 (Female) scale, for a given geography/locale or globally.\n\nThe API automatically recognizes which culture to apply when assessing the gender of a personal name. Some examples: “Andrea Rossini” is most likely an Italian name and a male name, whereas “Andrea Parker” is most likely an anglosaxon name and a female name; 声涛周 is most likely male ; “O. Sokolova” is most likely female.\n\nThe API comes as a free version (name by name) or freemium version (bath processing, 1000 names at a time). ",
+      "baseURL": "http://api.namsor.com/onomastics/api/json/gendre/John/Smith",
+      "humanURL": "http://namsor.com/API",
+      "tags": [
+        "API",
+        "Analysis",
+        "Gender",
+        "Personal Name",
+        "Onomastics",
+        "Application Programming Interface",
+        "Baby Name"
+      ],
+      "properties": [
+              {
+              	      "type": "X-blog",
+              	      "url": "http://gendergapgrader.com/"
+              }
+      ],
+      "contact": [
+        {
+          "FN": "NamSor",
+          "email": "contact@namsor.com",
+          "organizationName": "NamSor Applied Onomastics",
+          "adr": "",                                                                             
+          "tel": "",
+          "X-twitter": "",
+          "X-github": "https://github.com/namsor/",
+          "photo": "https://raw.githubusercontent.com/namsor/namsor-api/master/2014_NamSor_Logo_512.png",
+          "url": "http://namsor.com/"
+        }
+      ]
+    }
+  ],
+  "maintainers": [
+    {
+      "FN": "NamSor Applied Onomastics"
+    }
+  ],
+  "tags": [
+        "API",
+        "Analysis",
+        "Gender",
+        "Personal Name",
+        "Onomastics",
+        "Application Programming Interface",
+        "Baby Name"
+  ],
+  "include": [],
+  "created": "2014-11-26",
+  "modified": "2014-11-26"
+}
