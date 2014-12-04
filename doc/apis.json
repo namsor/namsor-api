@@ -13,9 +13,11 @@
       "humanURL": "http://namsor.com/API",
       "tags": [
         "API",
+        "Data",
         "Analysis",
         "Gender",
-        "Personal Name",
+        "Sex",
+        "Name",
         "Onomastics",
         "Application Programming Interface",
         "Baby Name"
@@ -52,15 +54,16 @@
       "humanURL": "http://namsor.com/API",
       "tags": [
         "API",
+        "Data",
         "Analysis",
         "Origin",
         "Country",
-        "Personal Name",
+        "Name",
         "Onomastics",
         "Application Programming Interface",
         "Culture",
         "Ethnicity",
-        "Ethnic Group",
+        "Ethnic",
         "Language"
       ],
       "properties": [
