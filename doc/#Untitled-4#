@@ -1,2 +1,0 @@
-Error: Data does not match any schemas from 'oneOf' at /apis/0
-String is too short (0 chars), minimum 1 at /apis/0/contact/0/tel [400]
