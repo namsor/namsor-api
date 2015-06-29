@@ -9,8 +9,8 @@
       "name": "NamSor Gender API",
       "description": "GendRE is an Application Programming Interface (API) to determine the gender of a personal name on a -1 (Male) to +1 (Female) scale, for a given geography/locale or globally.\n\nThe API automatically recognizes which culture to apply when assessing the gender of a personal name. Some examples: “Andrea Rossini” is most likely an Italian name and a male name, whereas “Andrea Parker” is most likely an anglosaxon name and a female name; 声涛周 is most likely male ; “O. Sokolova” is most likely female.\n\nThe API comes as a free version (name by name) or freemium version (bath processing, 1000 names at a time). ",
       "image": "https://raw.githubusercontent.com/namsor/namsor-api/master/2014_NamSor_Logo_500_250_Gender.png",
-      "baseURL": "http://api.namsor.com/onomastics/api/json/gendre/John/Smith",
-      "humanURL": "http://namsor.com/API",
+      "baseURL": "https://api.namsor.com/onomastics/api/json/gendre/John/Smith",
+      "humanURL": "http://blog.namsor.com/api",
       "tags": [
         "API",
         "Data",
@@ -42,7 +42,7 @@
           "X-twitter": "",
           "X-github": "https://github.com/namsor/",
           "photo": "https://raw.githubusercontent.com/namsor/namsor-api/master/2014_NamSor_Logo_512.png",
-          "url": "http://namsor.com/"
+          "url": "http://www.namsor.com/"
         }
       ]
     },
@@ -50,8 +50,8 @@
       "name": "NamSor Origin API",
       "description": "Determine the likely country of origin of a personal name, based on the sociolinguistics of the name (language, culture).",
       "image": "https://raw.githubusercontent.com/namsor/namsor-api/master/2014_NamSor_Logo_500_250_Origin.png",
-      "baseURL": "http://namsor.com/API",
-      "humanURL": "http://namsor.com/API",
+      "baseURL": "https://api.namsor.com/",
+      "humanURL": "http://blog.namsor.com/api",
       "tags": [
         "API",
         "Data",
@@ -86,7 +86,7 @@
           "X-twitter": "",
           "X-github": "https://github.com/namsor/",
           "photo": "https://raw.githubusercontent.com/namsor/namsor-api/master/2014_NamSor_Logo_512.png",
-          "url": "http://namsor.com/"
+          "url": "http://www.namsor.com/"
         }
       ]
     }
@@ -107,5 +107,5 @@
   ],
   "include": [],
   "created": "2014-11-26",
-  "modified": "2014-11-26"
+  "modified": "2015-06-29"
 }
