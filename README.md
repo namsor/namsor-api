@@ -1,6 +1,6 @@
-NamSor API & SDK
+NamSor API & SDK (V1-deprecated)
 ==============
-
+NamSor API V1 will be discontinued on 31/12/2019. Please check out NamSor API V2 instead at www.namsor.com 
 NamSor Applied Onomastics API and SDKs (Extract Gender, Extract Origin, more...). Applied onomastics is the science of proper names. Names are meaningful: they can be classified, sorted, filtered, corrected... This project is a placeholder to distribute open source SDKs for NamSor API. 
 
 ![NamSorSDK](https://raw.githubusercontent.com/namsor/namsor-api/master/2014_NamSor_Logo_500_250_SDK.png)
